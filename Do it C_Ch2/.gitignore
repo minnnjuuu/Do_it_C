@@ -4,3 +4,6 @@ Do it C_Ch2.sln
 Do it C_Ch2.vcxproj
 Do it C_Ch2.vcxproj.filters
 Do it C_Ch2.vcxproj.user
+Do it C_Ch2.aps
+Do it C_Ch2.rc
+resource.h
