@@ -31,11 +31,6 @@ void selection_2(int a[], int n) {
 	}
 }
 
-
-
-
-
-
 int main(void) {
 	int i, nx;
 	int* a;
